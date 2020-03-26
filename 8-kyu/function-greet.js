@@ -1,0 +1,3 @@
+const greet = () => "hello world!";
+
+// Yes it was that freaking easy....
