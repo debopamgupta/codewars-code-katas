@@ -2,7 +2,7 @@
 
 ## https://www.codewars.com/kata
 
-If i do not have a file for any kata thenn it must have been easy ...
+If i do not have a file for any kata then it must have been easy ...
 Still if you are unable to solve it, or would like to suggest any changes, open an issue!
 
 # 8 kyu
