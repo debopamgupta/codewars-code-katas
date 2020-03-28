@@ -50,3 +50,6 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - Grasshopper Messi Goals https://www.codewars.com/kata/55ca77fa094a2af31f00002a
 
 - Function 1 - hello world https://www.codewars.com/kata/523b4ff7adca849afe000035
+
+- Is it even? https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript
+  IN 8kyu/is-it-even.js
