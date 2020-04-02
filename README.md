@@ -53,3 +53,6 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 
 - Is it even? https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript
   IN 8kyu/is-it-even.js
+
+- Thinkful: Number Drills Red and Blue Marbles https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/
+  IN 8kyu/blue-and-red-marbles.js
