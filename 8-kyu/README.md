@@ -56,3 +56,18 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 
 - Thinkful: Number Drills Red and Blue Marbles https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/
   IN blue-and-red-marbles.js
+
+- Beginner Series #2 Clock https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+  IN beginner-series-clock.js
+
+- Grasshopper - Grade book https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+  IN grasshopper-grade-book.js
+
+- Beginner Series #1 School Paperwork https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/javascript
+  IN beginner-series-school-paperwork.js
+
+- Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript
+  IN grasshopper-summmation.js
+
+- N-th Power - https://www.codewars.com/kata/57d814e4950d8489720008db
+  IN n-th-power.js
