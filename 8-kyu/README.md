@@ -109,7 +109,8 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 
 - Opposite - https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 
-```js const opposite = (number) =>  -number;
+```js
+const opposite = number => -number;
 ```
 
 - Holiday VI - Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059
