@@ -52,34 +52,66 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - Function 1 - hello world https://www.codewars.com/kata/523b4ff7adca849afe000035
 
 - Is it even? https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript
+
   IN is-it-even.js
 
 - Thinkful: Number Drills Red and Blue Marbles https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/
+
   IN blue-and-red-marbles.js
 
 - Beginner Series #2 Clock https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+
   IN beginner-series-clock.js
 
 - Grasshopper - Grade book https://www.codewars.com/kata/55cbd4ba903825f7970000f5
+
   IN grasshopper-grade-book.js
 
 - Beginner Series #1 School Paperwork https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/javascript
+
   IN beginner-series-school-paperwork.js
 
 - Grasshopper - Summation https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript
+
   IN grasshopper-summmation.js
 
 - N-th Power - https://www.codewars.com/kata/57d814e4950d8489720008db
+
   IN n-th-power.js
 
 - Polish Alphabet - https://www.codewars.com/kata/57ab2d6072292dbf7c000039/solutions/javascript
+
   IN polish-alphabet.js
 
 - No zeros for heros - https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript
+
   IN zeros-for-heros.js
 
-- Exclusive OR (XOR) - https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c  
+- Exclusive OR (XOR) - https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c
+
   IN xor.js
 
 - How Good are you really? - https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript
+
   IN how-good-are-you.js
+
+- Filling an array ( part 1) - https://www.codewars.com/kata/571d42206414b103dc0006a1/train/javascript
+
+  IN filling-array-part-one.js
+
+- Squash the bugs! - https://www.codewars.com/kata/56f173a35b91399a05000cb7
+
+  IN squash-the-bugs.js
+
+- Grasshopper - Bug Squashing - https://www.codewars.com/kata/56214b6864fe8813f1000019/train/javascript
+
+  IN grasshopper-bug-squashing.js
+
+- Opposite - https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
+
+```js const opposite = (number) =>  -number;
+```
+
+- Holiday VI - Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059
+
+  IN holiday-vi-shark-pontoon.js
