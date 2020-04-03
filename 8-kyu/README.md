@@ -71,3 +71,15 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 
 - N-th Power - https://www.codewars.com/kata/57d814e4950d8489720008db
   IN n-th-power.js
+
+- Polish Alphabet - https://www.codewars.com/kata/57ab2d6072292dbf7c000039/solutions/javascript
+  IN polish-alphabet.js
+
+- No zeros for heros - https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript
+  IN zeros-for-heros.js
+
+- Exclusive OR (XOR) - https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c  
+  IN xor.js
+
+- How Good are you really? - https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript
+  IN how-good-are-you.js
