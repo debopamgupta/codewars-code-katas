@@ -110,9 +110,21 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - Opposite - https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 
 ```js
-const opposite = number => -number;
+const opposite = (number) => -number;
 ```
 
 - Holiday VI - Shark Pontoon - https://www.codewars.com/kata/57e921d8b36340f1fd000059
 
   IN holiday-vi-shark-pontoon.js
+
+- What's the real floor? - https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript
+
+  IN real-floor.js
+
+- Array plus array - https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript
+
+  IN array-plus-array.js
+
+- SpeedCode #2 - Array Madness - https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/train/javascript
+
+  IN array-madness.js
