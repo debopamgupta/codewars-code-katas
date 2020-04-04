@@ -128,3 +128,11 @@ const opposite = (number) => -number;
 - SpeedCode #2 - Array Madness - https://www.codewars.com/kata/56ff6a70e1a63ccdfa0001b1/train/javascript
 
   IN array-madness.js
+
+- Beginner Series #4 Cockroach - https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript
+
+  IN beginner-series-cockroach.js
+
+- Simple Fun #352 - Reagent Formula - https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript
+
+  IN simplefun-reagentformula.js
