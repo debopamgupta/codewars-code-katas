@@ -170,3 +170,19 @@ const opposite = (number) => -number;
 ```js
 const checkForFactor = (base, factor) => base % factor === 0;
 ```
+
+- Convert number to reversed array of digits - https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript
+
+  IN reversed-array-of-digits.js
+
+- Remove First and Last Character https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript
+
+```js
+const removeChar = (str) => str.substring(1, str.length - 1);
+```
+
+- Square(n) Sum - https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript
+
+```js
+const squareSum = (n) => n.reduce((a, i) => (a += i * i), 0);
+```
