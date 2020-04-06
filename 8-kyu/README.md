@@ -136,3 +136,37 @@ const opposite = (number) => -number;
 - Simple Fun #352 - Reagent Formula - https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript
 
   IN simplefun-reagentformula.js
+
+- No Loops 2 You only need One - https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/train/javascript
+
+  IN no-loops-you-only-need-one.js
+
+- altERnaTIng cAsE <=> ALTerNAtiNG CaSe - https://www.codewars.com/kata/56efc695740d30f963000557/train/javascript
+
+  IN alternating-case.js
+
+- Reversed Strings https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript
+
+  IN reversed-strings.js
+
+- Keep Hydrated https://www.codewars.com/kata/582cb0224e56e068d800003c/solutions/javascript
+
+  ```js
+  const litres = (time) => Math.floor(time / 2);
+  // OR
+  const litres = (time) => Math.floor(time * 0.5);
+  ```
+
+- Area or Perimeter https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript
+
+  ```js
+  const areaOrPerimeter = function (l, w) {
+    return l === w ? l * w : 2 * (l + w);
+  };
+  ```
+
+- Grasshopper - Check for factor https://www.codewars.com/kata/55cbc3586671f6aa070000fb
+
+```js
+const checkForFactor = (base, factor) => base % factor === 0;
+```
