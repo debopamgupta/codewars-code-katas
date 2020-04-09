@@ -186,3 +186,31 @@ const removeChar = (str) => str.substring(1, str.length - 1);
 ```js
 const squareSum = (n) => n.reduce((a, i) => (a += i * i), 0);
 ```
+
+- Even or Odd - https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript
+
+```js
+const even_or_odd = (number) => (number % 2 == 0 ? "Even" : "Odd");
+```
+
+- Sum of Positive - https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript
+
+  IN sum-of-positive.js
+
+- String Repeat - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript
+
+  IN string-repeat.js
+
+### SpEcIaL - SOLVED BY CJ ON THE CODING GARDEN 🤘
+
+- Expressions Matter - https://www.codewars.com/kata/5ae62fcf252e66d44d00008e
+
+- Get ASCII value of character - https://www.codewars.com/kata/55acfc59c3c23d230f00006d
+
+#### Check Episode 43 - https://github.com/CodingGarden/code-katas/tree/master/episode_43
+
+#### Watch the playlist - https://www.youtube.com/playlist?list=PLM_i0obccy3sZGzZdpEtxPcR1iPIV0taQ
+
+#### Watch the actual stream - https://www.youtube.com/watch?v=-61r_O7sM7I&list=PLM_i0obccy3sZGzZdpEtxPcR1iPIV0taQ&index=48&t=0s
+
+## Thank You thus...
