@@ -213,4 +213,23 @@ const even_or_odd = (number) => (number % 2 == 0 ? "Even" : "Odd");
 
 #### Watch the actual stream - https://www.youtube.com/watch?v=-61r_O7sM7I&list=PLM_i0obccy3sZGzZdpEtxPcR1iPIV0taQ&index=48&t=0s
 
-## Thank You thus...
+#### Thank You thus...
+
+- The Wide-Mouthed Frog - https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89
+
+IN wide-mouthed-frog.js
+
+- Reversed Sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript
+
+IN reversed-sequence.js
+
+- Century from Year - https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+
+IN century-from-year.js
+
+- Remove Spaces from string - https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+
+IN remove-spaces-from-string.js
+
+- Tip Calculator - https://www.codewars.com/kata/56598d8076ee7a0759000087
+  IN tip-calc.js
