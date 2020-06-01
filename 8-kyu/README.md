@@ -233,3 +233,56 @@ IN remove-spaces-from-string.js
 
 - Tip Calculator - https://www.codewars.com/kata/56598d8076ee7a0759000087
   IN tip-calc.js
+
+- Is n divisible by x and y? - https://www.codewars.com/kata/5545f109004975ea66000086  
+  IN is-divisible-by-xy.js
+
+- You only need one - Beginner - https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript
+
+  IN you-only-need-one.js
+
+- Get Planet Name By ID - https://www.codewars.com/kata/515e188a311df01cba000003/train/javascript
+
+```js
+function getPlanetName(id) {
+  var name;
+  switch (id) {
+    case 1:
+      name = "Mercury";
+      break;
+    case 2:
+      name = "Venus";
+      break;
+    case 3:
+      name = "Earth";
+      break;
+    case 4:
+      name = "Mars";
+      break;
+    case 5:
+      name = "Jupiter";
+      break;
+    case 6:
+      name = "Saturn";
+      break;
+    case 7:
+      name = "Uranus";
+      break;
+    case 8:
+      name = "Neptune";
+      break;
+  }
+  return name;
+}
+```
+
+- Abbreviate a two letter name - https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript  
+  IN 8-kyu/abbreviate-two-letter-name.js
+
+TO BE DONE :-
+
+- [ ] generate range of integers https://www.codewars.com/kata/55eca815d0d20962e1000106
+- [ ] Incorrect division method https://www.codewars.com/kata/54d1c59aba326343c80000e7
+- [ ] Enumerable Magic #25 - Take the First N Elements https://www.codewars.com/kata/545afd0761aa4c3055001386
+- [ ] Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+- [ ] Draw Stairs https://www.codewars.com/kata/5b4e779c578c6a898e0005c5
