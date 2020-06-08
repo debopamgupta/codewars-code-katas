@@ -279,10 +279,15 @@ function getPlanetName(id) {
 - Abbreviate a two letter name - https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript  
   IN 8-kyu/abbreviate-two-letter-name.js
 
-TO BE DONE :-
+- Enumerable Magic #25 - Take the First N Elements https://www.codewars.com/kata/545afd0761aa4c3055001386
+  IN 8kyu/enumerable-magic.js
 
-- [ ] generate range of integers https://www.codewars.com/kata/55eca815d0d20962e1000106
-- [ ] Incorrect division method https://www.codewars.com/kata/54d1c59aba326343c80000e7
-- [ ] Enumerable Magic #25 - Take the First N Elements https://www.codewars.com/kata/545afd0761aa4c3055001386
-- [ ] Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+- Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+  IN 8kyu/beginner-lost-without-a-map.js
+
+- generate range of integers https://www.codewars.com/kata/55eca815d0d20962e1000106
+  IN generate-range-of-integers.js
+
+TODO -
+
 - [ ] Draw Stairs https://www.codewars.com/kata/5b4e779c578c6a898e0005c5
