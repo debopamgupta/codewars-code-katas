@@ -7,3 +7,7 @@ This is a repo where i keep my solutions to the problems ( katas ) which i have 
 #### Check out 8 kyu katas : -
 
 - IN 8-kyu/ directory
+
+#### Check out 7 kyu katas :-
+
+- IN 7-kyu directory
