@@ -6,4 +6,25 @@ If i do not have a file for any kata then it must have been easy ...
 Still if you are unable to solve it, or would like to suggest any changes, open an issue!
 
 - Nth power rules them all! https://www.codewars.com/kata/58aed2cafab8faca1d000e20
+
   IN nth-power-rules.js
+
+- How many days are we represented in a foreign country? https://www.codewars.com/kata/58e93b4706db4d24ee000096/train/javascript
+
+  IN foreign-days.js
+
+  not able to figure out...
+
+- Halving Sum https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/javascript
+
+  IN halving-sum.js
+
+- The reject() function https://www.codewars.com/kata/52988f3f7edba9839c00037d/train/javascript
+
+  IN reject-fn.js
+
+- Say hello! - https://www.codewars.com/kata/55955a48a4e9c1a77500005a/train/javascript
+  IN say-hello.js
+
+- Largest pair sum in array https://www.codewars.com/kata/556196a6091a7e7f58000018
+  IN largest-pair-sum.js
