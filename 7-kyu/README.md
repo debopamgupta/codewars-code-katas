@@ -24,7 +24,29 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
   IN reject-fn.js
 
 - Say hello! - https://www.codewars.com/kata/55955a48a4e9c1a77500005a/train/javascript
+
   IN say-hello.js
 
 - Largest pair sum in array https://www.codewars.com/kata/556196a6091a7e7f58000018
+
   IN largest-pair-sum.js
+
+- Alternate Capitalization https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/javascript
+
+  IN alternate-capitalisation.js
+
+- Vowel Count https://www.codewars.com/kata/54ff3102c1bad923760001f3
+
+  IN vowel-count.js
+
+- Mumbling https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
+
+  IN mumbling.js
+
+- Round up to the next multiple of 5 https://www.codewars.com/kata/55d1d6d5955ec6365400006d/train/javascript
+
+  IN round-next-5.js
+
+- Orthogonal vectors https://www.codewars.com/kata/53670c5867e9f2222f000225/train/javascript
+
+  IN orthogonal-unit.js
