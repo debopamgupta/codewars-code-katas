@@ -49,3 +49,11 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - Orthogonal vectors https://www.codewars.com/kata/53670c5867e9f2222f000225/train/javascript
 
   IN orthogonal-unit.js
+
+- Highest and Lowest https://www.codewars.com/kata/554b4ac871d6813a03000035
+
+  IN highest-and-lowest.js
+
+- Get Middle Character https://www.codewars.com/kata/56747fd5cb988479af000028
+
+  IN get-middle-char.js
