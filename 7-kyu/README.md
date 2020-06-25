@@ -12,8 +12,7 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - How many days are we represented in a foreign country? https://www.codewars.com/kata/58e93b4706db4d24ee000096/train/javascript
 
   IN foreign-days.js
-
-  not able to figure out...
+  done with a bit of guidance from the coding garden.
 
 - Halving Sum https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d/train/javascript
 

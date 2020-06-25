@@ -10,13 +10,33 @@ Example:
 daysRepresented ([[10,17],[200,207]])
 Returns 16 because there are two trips of 8 days, which add up to 16
 */
-
+// SOLN 1
 function daysRepresented(trips) {
-  let days = 0;
+  // place to store the days
+  let days = {};
+  trips.forEach((trip) => {
+    const arrival = trip[0];
+    const departure = trip[1];
+    for (let i = arrival; i <= departure; i++) {
+      // iterate over the array and set the date value to be true.
+      // if it already exists on the object days, then it will be overwritten
+      // resulting in only one entry for it
 
-  let last = 0;
+      days[i] = true;
+    }
+  });
+  return Object.keys(days).length;
+}
 
-  return days;
+// SOLN 2
+function daysRepresented(trips) {
+  const set = new Set();
+  trips.map(([a, b]) => {
+    for (let i = a; i <= b; ++i) {
+      set.add(i);
+    }
+  });
+  return set.size;
 }
 
 console.log(
