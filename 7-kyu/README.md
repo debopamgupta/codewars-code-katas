@@ -57,3 +57,7 @@ Still if you are unable to solve it, or would like to suggest any changes, open 
 - Get Middle Character https://www.codewars.com/kata/56747fd5cb988479af000028
 
   IN get-middle-char.js
+
+- Printer Errors https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript
+
+  IN printer-errors.js
